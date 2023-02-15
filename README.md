@@ -63,17 +63,19 @@ We do not share any information with external services.
 
 We do not identify the user, as compliant with GDPR.
 
-By using our app you accept our Terms and conditions and also external services like YouTube Terms and conditions:
+This app may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves exactly the same way as if the visitor had visited the other website.
+
+These websites (YouTube.com and Scorebat.com) may collect data about you, use cookies, integrate additional third-party tracking and monitor your interaction with them, including tracking your interaction with embedded content if you have an account and are logged in to those websites.
+
+By using our app you accept our Terms and conditions and also external services like YouTube and Scorebat Terms and conditions:
+
+https://www.scorebat.com/privacy/
 
 https://www.youtube.com/t/terms
 
-You can also check google security settings:
+You can also check google account security settings:
 
 https://security.google.com/settings/security/permissions
-
-You also accept Terms and conditions of Socrebat.com
-
-https://www.scorebat.com/privacy/
 
 
 ---
