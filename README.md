@@ -63,6 +63,17 @@ We do not share any information with external services.
 
 We do not identify the user, as compliant with GDPR.
 
+By using our app you accept our Terms and conditions and also external services like YouTube Terms and conditions:
+
+https://www.youtube.com/t/terms
+
+You can also check google security settings:
+
+https://security.google.com/settings/security/permissions
+
+You also accept Terms and conditions of Socrebat.com
+
+https://www.scorebat.com/privacy/
 ---
 
 https://apps.apple.com/us/app/highlights/id1670417770
