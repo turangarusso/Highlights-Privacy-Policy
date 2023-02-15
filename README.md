@@ -74,6 +74,8 @@ https://security.google.com/settings/security/permissions
 You also accept Terms and conditions of Socrebat.com
 
 https://www.scorebat.com/privacy/
+
+
 ---
 
 https://apps.apple.com/us/app/highlights/id1670417770
