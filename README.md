@@ -31,7 +31,7 @@
 * Easy Filter with one tap 
 * Show related Statistics of the match
 * Check Live Score 
-* Custom calendar for old a next scheduled mathes
+* Custom calendar with old and next scheduled mathes
 * Watch Live Tv matches
 
 
