@@ -37,7 +37,9 @@
 
 ## How To Use
 
-Simply download it !
+Simply download it ! 
+
+https://turangarusso.github.io/Highlights-landing-page/
 
 > **Note**
 > If you like our app rate it with 5 stars! 
