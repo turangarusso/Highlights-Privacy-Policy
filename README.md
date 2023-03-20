@@ -47,8 +47,6 @@ Simply download it !
 
 Russo Giovanni M.
 
-Antonio De Luca
-
 ## Privacy Policy
 
 This is the Highlights App Privacy Policy
